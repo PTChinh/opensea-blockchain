@@ -49,7 +49,7 @@ const GeneralDetails = ({ selectedNft }) => {
                         <GiShare />
                     </div>
                     <div className={style.divider} />
-                    <div className={`${style.actionButton} mr-2`} v>
+                    <div className={`${style.actionButton} mr-2`}>
                         <FiMoreVertical />
                     </div>
                 </div>
